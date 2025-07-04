@@ -1,0 +1,210 @@
+[
+  {
+    "name": "pdc_new",
+    "value": "429575aeb40d7b8346f24f0ef9bd1c13",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "pdcVersion",
+    "value": "2",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "u",
+    "value": "1",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ists",
+    "value": "1",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "subscription_cookie",
+    "value": "1",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "subscription_at_bottom_cookie",
+    "value": "1",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "is_logged_in",
+    "value": "1",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.908172283.1744278665",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1744278706141.337429384682696661",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_uetvid",
+    "value": "6a2fdde015f111f092f9cb7a22289985",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_clck",
+    "value": "1kca9vm%7C2%7Cfv4%7C0%7C1926",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.1117725174.1744278666",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_ga_XHNTE5RRF4",
+    "value": "GS1.1.1744779706.14.1.1744779726.40.0.0",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "role",
+    "value": "student",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "isc",
+    "value": "56hvl1lc758pcq8vc28gjb00cgnnboef",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "persistentSession",
+    "value": "d7ab72725b21ea67",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "persistentSessionDateTimeStamp",
+    "value": "1751394600",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "sessionToken",
+    "value": "1cedc532",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "toUpdatePersistentSession",
+    "value": "2",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "sfc",
+    "value": "2",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "internshipSearchUrl",
+    "value": "%2Finternships%2Fhtml-internship%2F",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "internshipFiltersEncoded",
+    "value": "%7B%22employment_type%22%3A%22internship%22%2C%22categories%22%3A%5B%22Html%22%5D%2C%22locations%22%3A%5B%5D%2C%22work_from_home%22%3Afalse%2C%22remote_job%22%3Afalse%2C%22job_internship_checked%22%3Afalse%7D",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "hardcoded_posts_isp_v_51",
+    "value": "2%7C1756631769",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "nav_bottom_courses_amber_dot",
+    "value": "1%7C1752053659",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "AWSALB",
+    "value": "WW8OB3WQ3R7uvDi8BlGmy+PMQqv8MGve03MiaBYBJYtrUR70vJoM4gPTm2mNVW2pdwovVGPa6Cc+bUWlUODc74JAV9UKI443cHE/jluptPkSdI+o4yycPrUezZg7",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "AWSALBCORS",
+    "value": "WW8OB3WQ3R7uvDi8BlGmy+PMQqv8MGve03MiaBYBJYtrUR70vJoM4gPTm2mNVW2pdwovVGPa6Cc+bUWlUODc74JAV9UKI443cHE/jluptPkSdI+o4yycPrUezZg7",
+    "domain": ".internshala.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  }
+]
